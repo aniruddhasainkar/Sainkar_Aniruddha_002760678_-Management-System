@@ -18,4 +18,3 @@ public class Management_system {
     }
     
 }
-hello
